@@ -29,6 +29,8 @@
 <h2><input type="text" name="marks"></h2>
 <h2><label for="marks">Intermediate CGPA:</label></h2>
 <h2><input type="text" name="marks"></h2>
+  <h2><label for="marks">Graduation percentage:</label></h2>
+  <h2><input type="text" name="marks"></h2>
 <h2><label for="fname">cource completed:</label></h2>
 <h2><input type="text" name="fname"></h2>
 <ins><h2>enter you'r branch</h2></ins>
@@ -41,6 +43,6 @@
 <h2><input type="text"  name="fname"></h2>
 <h2><label for="fname">upload a resume:</label></h2>
 <h2><input type="text"  name="fname"></h2>
-<h2><input type="submit"></h2>
+  <h2><button type="button">submit</button></h2>
 </body>
 </html>
